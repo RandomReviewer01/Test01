@@ -1,0 +1,7 @@
+  {
+        "name": "Death",
+        "type": "Pantheon",
+        "uniques": ["[+10 Culture] from every [Graveyard]"]
+        "uniques": ["[+10 Happiness] from every [Graveyard]"]
+        "uniques": ["[+10 Food] from every [Graveyard]"]
+    },
